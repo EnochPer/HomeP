@@ -1,0 +1,140 @@
+{
+  "series_1": [
+    {
+      "id": "s1-1",
+      "title": "静谧之境",
+      "image_url": "color-1",
+      "desc_en": "A journey through tranquility",
+      "desc_zh": "一段宁静的旅程",
+      "bgColor": "#E8D4C4"
+    },
+    {
+      "id": "s1-2",
+      "title": "晨曦初现",
+      "image_url": "color-2",
+      "desc_en": "Dawn breaks gently",
+      "desc_zh": "晨曦温柔地降临",
+      "bgColor": "#F5E6D3"
+    },
+    {
+      "id": "s1-3",
+      "title": "蔚蓝之梦",
+      "image_url": "color-3",
+      "desc_en": "Dreams of azure skies",
+      "desc_zh": "蔚蓝天空的梦",
+      "bgColor": "#D4E5F5"
+    },
+    {
+      "id": "s1-4",
+      "title": "山巅日出",
+      "image_url": "color-6",
+      "desc_en": "Sunrise at the mountain peak",
+      "desc_zh": "山巅的日出",
+      "bgColor": "#F5E6C4"
+    },
+    {
+      "id": "s1-5",
+      "title": "星空下的湖",
+      "image_url": "color-8",
+      "desc_en": "Lake under starry skies",
+      "desc_zh": "星空下的湖面",
+      "bgColor": "#E6D4F5"
+    }
+  ],
+  "series_2": [
+    {
+      "id": "s2-1",
+      "title": "火焰之舞",
+      "image_url": "color-4",
+      "desc_en": "Dance of flames",
+      "desc_zh": "火焰的舞蹈",
+      "bgColor": "#F5C4C4"
+    },
+    {
+      "id": "s2-2",
+      "title": "深海幽思",
+      "image_url": "color-5",
+      "desc_en": "Deep sea reflections",
+      "desc_zh": "深海的沉思",
+      "bgColor": "#C4D4F5"
+    },
+    {
+      "id": "s2-3",
+      "title": "火山熔岩",
+      "image_url": "color-4",
+      "desc_en": "Volcanic lava",
+      "desc_zh": "火山熔岩",
+      "bgColor": "#F5C4C4"
+    }
+  ],
+  "series_3": [
+    {
+      "id": "s3-1",
+      "title": "金色时光",
+      "image_url": "color-6",
+      "desc_en": "Golden hours",
+      "desc_zh": "金色时光",
+      "bgColor": "#F5E6C4"
+    },
+    {
+      "id": "s3-2",
+      "title": "黄昏时刻",
+      "image_url": "color-2",
+      "desc_en": "Moment of dusk",
+      "desc_zh": "黄昏时刻",
+      "bgColor": "#F5E6D3"
+    }
+  ],
+  "series_4": [
+    {
+      "id": "s4-1",
+      "title": "森林低语",
+      "image_url": "color-7",
+      "desc_en": "Whispers of the forest",
+      "desc_zh": "森林的低语",
+      "bgColor": "#D4F5E6"
+    },
+    {
+      "id": "s4-2",
+      "title": "春日新叶",
+      "image_url": "color-7",
+      "desc_en": "Spring leaves",
+      "desc_zh": "春日新叶",
+      "bgColor": "#D4F5E6"
+    }
+  ],
+  "series_5": [
+    {
+      "id": "s5-1",
+      "title": "星空漫游",
+      "image_url": "color-8",
+      "desc_en": "Stellar journey",
+      "desc_zh": "星际旅程",
+      "bgColor": "#E6D4F5"
+    },
+    {
+      "id": "s5-2",
+      "title": "银河穿越",
+      "image_url": "color-8",
+      "desc_en": "Crossing the galaxy",
+      "desc_zh": "穿越银河",
+      "bgColor": "#E6D4F5"
+    },
+    {
+      "id": "s5-3",
+      "title": "星云幻象",
+      "image_url": "color-1",
+      "desc_en": "Nebula illusion",
+      "desc_zh": "星云幻象",
+      "bgColor": "#E8D4C4"
+    },
+    {
+      "id": "s5-4",
+      "title": "流星划过",
+      "image_url": "color-6",
+      "desc_en": "Shooting stars",
+      "desc_zh": "流星划过夜空",
+      "bgColor": "#F5E6C4"
+    }
+  ]
+}
